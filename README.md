@@ -33,6 +33,7 @@ Download AdventureWorks sample database: https://learn.microsoft.com/en-us/sql/s
   ⦁	Created a Country table using Enter Data with CountryCode and CountryName.
 
   ⦁	Established relationships:
+  
  	  - Sales to Calendar (OrderDate).
  	  - Sales to Country (CountryCode).
 
