@@ -35,6 +35,7 @@ Download AdventureWorks sample database: https://learn.microsoft.com/en-us/sql/s
   ⦁	Established relationships:
   
  	  - Sales to Calendar (OrderDate).
+    
  	  - Sales to Country (CountryCode).
 
 **Tools**
